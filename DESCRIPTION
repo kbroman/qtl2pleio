@@ -9,9 +9,9 @@ Authors@R:
            email = "frederick.boehm@gmail.com",
            comment = c(ORCID = "0000-0002-1644-5931"))
 Description: We implement an
-    adaptation of Jiang & Zeng's (1995) <https://www.genetics.org/content/140/3/1111> likelihood ratio test for testing
+    adaptation of Jiang & Zeng's (1995) <doi:10.1093/genetics/140.3.1111> likelihood ratio test for testing
     the null hypothesis of pleiotropy against the alternative hypothesis,
-    two separate quantitative trait loci. The test differs from that in Jiang & Zeng (1995) <https://www.genetics.org/content/140/3/1111>
+    two separate quantitative trait loci. The test differs from that in Jiang & Zeng (1995)
     and that in Tian et al. (2016) <doi:10.1534/genetics.115.183624> in
     that our test accommodates multiparental populations.
 License: MIT + file LICENSE
